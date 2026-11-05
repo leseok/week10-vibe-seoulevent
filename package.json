@@ -1,0 +1,11 @@
+{
+  "name": "seoulevent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Seoul Weekly Events Web Application",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "start": "node dev-server.js"
+  }
+}
+
